@@ -16,7 +16,7 @@ embed{vertical-align:top;}
 .col2{width:155px;}
 .col3{width:275px;}
 
-#page1 .body1{background:url("../images/dna9.png") top center no-repeat; height: 367px;; position:absolute; width:100%; z-index:1; opacity: 1;}
+#page1 .body1{background:url("../images/dna9.png") top center no-repeat; height: 367px;; position:absolute; width:200%; z-index:1; opacity: 1;}
 #page1 h1{padding:77px 0 0 20px;}
 #page1 .text1{font-size:40px; font-weight:300; color:#fff; line-height:48px; padding:37px 0 15px 0;}
 #page1 header p{padding-bottom:50px;}
@@ -99,7 +99,7 @@ header .link1:hover{text-decoration:underline;}
 .list1{padding:38px 80px 6px 0; 
 }
 .list1 li{line-height:19px; width:100%; overflow:hidden; margin-bottom:14px; background:url("../images/line_ver1.gif") 56px 0 repeat-y;}
-.list10 li{width:200%; }
+.list10 li{width:250%; }
 
 .list1 .box1{background:url("../images/box1.jpg") 0 0 no-repeat; float:left; font:20px "Trebuchet MS",Arial,Helvetica,sans-serif; color:#f2f2f2; font-weight:bold; line-height:39px; width:41px; text-align:center; margin-right:35px;}
 .list2{margin:-5px 0;}
