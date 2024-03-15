@@ -16,7 +16,7 @@ embed{vertical-align:top;}
 .col2{width:155px;}
 .col3{width:275px;}
 
-#page1 .body1{background:url("../images/dna9.png") top center no-repeat; height: 367px;; position:absolute; width:200%; z-index:1; opacity: 1;}
+#page1 .body1{background:url("../images/dna9.png") top center no-repeat; height: 367px;; position:absolute; width:250%; z-index:1; opacity: 1;}
 #page1 h1{padding:77px 0 0 20px;}
 #page1 .text1{font-size:40px; font-weight:300; color:#fff; line-height:48px; padding:37px 0 15px 0;}
 #page1 header p{padding-bottom:50px;}
