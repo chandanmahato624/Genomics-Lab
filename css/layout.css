@@ -15,7 +15,6 @@ embed{vertical-align:top;}
 .col1{width:480px;}
 .col2{width:155px;}
 .col3{width:275px;}
-
 #page1 .body1{background:url("../images/dna9.png") top center no-repeat; height: 367px;; position:absolute; width:100%; z-index:1; opacity: 1;}
 #page1 h1{padding:77px 0 0 20px;}
 #page1 .text1{font-size:40px; font-weight:300; color:#fff; line-height:48px; padding:37px 0 15px 0;}
@@ -107,7 +106,7 @@ header .link1:hover{text-decoration:underline;}
 .list2 li a{color:#4e4e4e;}
 .list3 li{line-height:30px;}
 .list3 li a{padding-left:10px; background:url("../images/marker_3.gif") 0 5px no-repeat;}
-.sen1{; width:200%; overflow:hidden; margin-bottom:14px;padding:6px 80px 6px 10px;}
+.sen1{ width:200%; overflow:hidden; margin-bottom:14px;padding:6px 80px 6px 10px;}
 
 .arrow{display:inline-block; background:url("../images/marker_1.gif") 0 7px no-repeat; height:19px; width:6px; margin-left:6px;}
 
