@@ -99,7 +99,7 @@ header .link1:hover{text-decoration:underline;}
 .list1{padding:38px 80px 6px 0; 
 }
 .list1 li{line-height:19px; width:100%; overflow:hidden; margin-bottom:14px; background:url("../images/line_ver1.gif") 56px 0 repeat-y;}
-.list10 li{width:250%; }
+.list10 li{width:200%; }
 
 .list1 .box1{background:url("../images/box1.jpg") 0 0 no-repeat; float:left; font:20px "Trebuchet MS",Arial,Helvetica,sans-serif; color:#f2f2f2; font-weight:bold; line-height:39px; width:41px; text-align:center; margin-right:35px;}
 .list2{margin:-5px 0;}
